@@ -1,7 +1,7 @@
 {
   "name": "cbc",
   "version": "1.0.0",
-  "description": "",
+  "description": "Coqueiro Bando Club - CBC",
   "main": "index.js",
   "scripts": {
     "dev": "next",
